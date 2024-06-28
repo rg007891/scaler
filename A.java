@@ -1,5 +1,5 @@
 class A{
-    public function dosomething{
-        
+    public void dosomething(){
+
     }
 }
