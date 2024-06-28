@@ -1,5 +1,5 @@
 class A{
-    public void dosomething(){
-
+    public void doSomething(){
+        System.out.println("Hello GIT!");
     }
 }
